@@ -1,2 +1,2 @@
-# Legay-Modernization-Project-1
+# Legacy-Modernization-Project-1
 Payroll System
