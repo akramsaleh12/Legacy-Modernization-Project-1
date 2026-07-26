@@ -4,5 +4,7 @@
 
 # Note:
 Sometimes the application is sleeping, to start the application click button
+
 ##         Yes, get this app back up!
+
 The app will start within few seconds.
